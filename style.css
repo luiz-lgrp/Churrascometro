@@ -1,0 +1,112 @@
+body {
+  padding: 10px;
+  margin: 0;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: #eb5757;
+  background: -webkit-linear-gradient(to top, #000000, #eb5757);
+  background: linear-gradient(to top, #000000, #eb5757);
+}
+
+.container {
+  max-width: 350px;
+  padding: 20px;
+  margin-top: 110px;
+  margin-left: 550px;
+  border-radius: 10px;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(255, 255, 255, 0.15);
+  transform-style: preserve-3d;
+}
+h1 {
+  font-family: fantas;
+  margin-top: 0;
+}
+
+input {
+  width: 100%;
+  display: block;
+  padding: 5px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+}
+#calc {
+  background: linear-gradient(to right, #eb5757, #292626);
+  border-radius: 2px;
+  backdrop-filter: blur (55px);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  font-family: fantas;
+  filter: saturate(200%);
+}
+#resultado {
+  font-weight: bolder;
+  font-family: fantas;
+  font-size: 17px;
+  font-style: italic;
+}
+
+@media screen and (max-width:1210px)
+{
+  .container {
+    margin-top: 170px;
+    margin-left: 450px;
+  }
+
+}
+
+@media screen and (max-width:1024px)
+{
+  .container {
+    margin-top: 170px;
+    margin-left: 350px;
+  }
+
+}
+
+@media screen and (max-width:900px)
+{
+  .container {
+    margin-top: 170px;
+    margin-left: 300px;
+  }
+
+}
+
+@media screen and (max-width:770px)
+{
+  .container {
+    margin-top: 170px;
+    margin-left: 210px;
+  }
+
+}
+
+@media screen and (max-width:650px)
+{
+  .container {
+    margin-top: 170px;
+    margin-left: 130px;
+  }
+
+}
+
+@media screen and (max-width:500px)
+{
+  .container {
+    margin-top: 170px;
+    margin-left: 50px;
+  }
+
+}
+
+@media screen and (max-width:430px)
+{
+  .container {
+    margin-top: 170px;
+    margin-left: 10px;
+  }
+
+}
