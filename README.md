@@ -6,7 +6,7 @@
 <br>
 <P>Link do site: https://luiz-lgrp.github.io/ProjetoVideo/ </P>
 
-<img src="https://github.com/luiz-lgrp/ProjetoVideo/blob/master/video/ProjetoVideosdds.gif" width="800" height="400" />
+<img src="https://github.com/luiz-lgrp/Churrascometro/blob/master/gif/churras.gif" width="800" height="400" />
 
 ## :desktop_computer: Tecnologias utilizadas
 
