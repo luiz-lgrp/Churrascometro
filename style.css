@@ -53,13 +53,14 @@ input {
 {
   .container 
   {
-    margin-top: 300px;
+    margin-top: 180px;
     margin-left: 1050px;
   }
 
 
 
 }
+
 
 @media screen and (max-width:1740px)
 {
