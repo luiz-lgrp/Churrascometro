@@ -61,6 +61,15 @@ input {
 
 }
 
+@media screen and (max-width:1440px)
+{
+  .container {
+    margin-top: 300px;
+    margin-left: 500px;
+  }
+
+}
+
 @media screen and (max-width:1210px)
 {
   .container {
