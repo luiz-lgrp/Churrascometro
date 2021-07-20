@@ -20,6 +20,7 @@ body {
   background-color: rgba(255, 255, 255, 0.15);
   transform-style: preserve-3d;
 }
+
 h1 {
   font-family: fantas;
   margin-top: 0;
@@ -46,6 +47,18 @@ input {
   font-family: fantas;
   font-size: 17px;
   font-style: italic;
+}
+
+@media screen and (max-width:2560px)
+{
+  .container 
+  {
+    margin-top: 300px;
+    margin-left: 1050px;
+  }
+
+
+
 }
 
 @media screen and (max-width:1210px)
